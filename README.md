@@ -79,7 +79,7 @@ GitHub Pages Live Site:
 
 ## 📸 Output Screenshot
 
-![Portfolio Output](page.png)
+![Portfolio Output](photo1.png)
 
 ---
 
